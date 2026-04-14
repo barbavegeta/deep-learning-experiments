@@ -6,7 +6,7 @@ Collection of deep learning experiments exploring image classification, transfer
 
 This repository groups multiple experiments into a single structured project to demonstrate progression from baseline models to more advanced architectures.
 
-The goal is not to showcase isolated notebooks, but to highlight understanding of:
+The goal is to systematically compare deep learning approaches across architectures (CNN vs Vision Transformers) and frameworks (Keras vs PyTorch), highlighting practical differences in performance, flexibility, and training workflows. This helps the understanding of:
 - model training pipelines
 - architectural differences (CNN vs ViT)
 - framework trade-offs (Keras vs PyTorch)
@@ -86,3 +86,10 @@ deep-learning-experiments/
 ## Notes
 
 These experiments are intentionally grouped into a single repository to present a coherent progression rather than isolated course exercises.
+
+## Key Takeaways
+
+- CNNs remain strong baselines for structured image data with limited compute
+- Vision Transformers provide flexibility but require more data and tuning
+- PyTorch offers greater control for experimentation, while Keras enables faster prototyping
+- Transfer learning significantly improves performance on smaller datasets
