@@ -68,17 +68,17 @@ The goal is not to showcase isolated notebooks, but to highlight understanding o
 
 ---
 
-## Structure
-deep-learning-experiments/
-├── README.md
-├── notebooks/
-│ ├── anime_cnn_classifier.ipynb
-│ ├── fashion_mnist_baseline.ipynb
-│ ├── waste_classification_transfer_learning.ipynb
-│ ├── vit_keras.ipynb
-│ ├── vit_pytorch.ipynb
-│ ├── cnn_vit_hybrid.ipynb
-│ ├── keras_vs_pytorch_comparison.ipynb
+## Structure  
+deep-learning-experiments/  
+├── README.md  
+├── notebooks/  
+│ ├── anime_cnn_classifier.ipynb  
+│ ├── fashion_mnist_baseline.ipynb  
+│ ├── waste_classification_transfer_learning.ipynb  
+│ ├── vit_keras.ipynb  
+│ ├── vit_pytorch.ipynb  
+│ ├── cnn_vit_hybrid.ipynb  
+│ ├── keras_vs_pytorch_comparison.ipynb  
 
 ---
 
